@@ -1,4 +1,4 @@
-string one=10;
+int one=10;
 create database join_pract;
 create table one_1(
      order_id varchar(255),
